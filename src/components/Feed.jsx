@@ -1,10 +1,10 @@
 import { Box, Stack, Typography } from "@mui/material";
 import { useState, useEffect } from "react";
-import { Sidebar, Videos } from "../components";
+import { Sidebar, Videos } from "./";
 import { fetchFromAPI } from '../utils/fetchFromAPI';
 
 const feedStyles = {
-    flexDirection: { sx: 'column', md: 'row' }
+    flexDirection: { sx: 'column', md: 'row' },
 }
 
 const boxStyles = {

@@ -4,7 +4,7 @@ import { CheckCircle } from "@mui/icons-material";
 
 import { demoThumbnailUrl, demoVideoUrl, demoVideoTitle, demoChannelUrl, demoChannelTitle } from "../utils/constants";
 
-const cardMediaStyles = { width: { xs: '100%', sm: '358px' }, height: 180 }
+const cardMediaStyles = { width: { xs: '100%', sm: '358px', md: '320px' }, height: 180 }
 const cardContentStyles = { backgroundColor: '#1e1e1e', height: '106px' }
 
 const VideoCard = ({ video: { id: { videoId }, snippet } }) => (
