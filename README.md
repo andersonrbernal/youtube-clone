@@ -8,6 +8,9 @@ I've used React.js and Material UI to build this clone.
 ![preview](./preview.JPG)
 
 ### How can I run this project?
-
-First, you have to create an accout on [RapidAPI](https://rapidapi.com/) and subscribe [Youtube V3](https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel) to this API to get an API key.
-After copying the key, you have to paste it on .env folder, and with that, just run __npm install__ and __npm run dev__ to run the application.
+- Clone this project
+- Create an account on [RapidAPI](https://rapidapi.com/).
+- Subscribe to the API [Youtube V3](https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel) to get a key.
+- Copy the key and paste it on the .env folder.
+- npm install 
+- npm run dev
