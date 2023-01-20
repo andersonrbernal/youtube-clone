@@ -4,7 +4,7 @@ This JSM Media Project is a Youtube Clone that has some of the features that You
 I've used React.js and Material UI to build this clone.
 
 ### Preview
-
+Click [here](https://youtube-clone-ashen-ten.vercel.app/) to visit the site.
 ![preview](./preview.JPG)
 
 ### How can I run this project?
